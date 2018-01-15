@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DrawerLayoutAndToolBar</string>
+    <string name="subTitle">SubTitle</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string-array name="left_menu">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+</resources>
